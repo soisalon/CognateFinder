@@ -18,7 +18,7 @@ Datasets used in the RANLP 2019 paper _Cross-Family Similarity Learning for Cogn
 
 ## References:
 
-1. Gerard de Melo. 2014. Etymological WordNet: Trac- ing the History of Words. In Proceedings of the Ninth International Conference on Language Re- sources and Evaluation (LREC’14), Reykjavik, Ice- land. European Language Resources Association (ELRA).
+1. Gerard de Melo. 2014. Etymological WordNet: Tracing the History of Words. In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14), Reykjavik, Iceland. European Language Resources Association (ELRA).
 
 2. The research group of Sami language technology at the University of Tromssa. http://giellatekno.uit.no/index.eng.html.
 
