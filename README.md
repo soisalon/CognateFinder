@@ -3,7 +3,7 @@
 
 ## Datasets
 
-Datasets used in the RANLP 2019 paper _"Cross-Family Similarity Learning for Cognate Identification in Low-Resource Languages"_ can be found in the folder `data`:
+Datasets used in the RANLP 2019 paper _Cross-Family Similarity Learning for Cognate Identification in Low-Resource Languages_ can be found in the folder `data`:
 
 - `ew_cognates.txt` contains all the cognate pairs used for training the similarity learning models. The words have been obtained from the _Etymological WordNet_ database by [1].
 
